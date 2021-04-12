@@ -1,0 +1,9 @@
+{
+  "name": "nitro-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "workspaces": [
+    "packages/*"
+  ]
+}
